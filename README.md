@@ -7,13 +7,13 @@ Meu nome é Hélder Siqueira e atualmente sou estudante da área de desenvolvime
 [![Linkedin Badge](https://img.shields.io/badge/-HélderSiqueira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helderSiqueira/)](https://www.linkedin.com/in/helderSiqueira/) 
 
 ##
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/19_Android_logo_logos-256.png" alt="rails" width="40" height="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="rails" width="40" height="40" style="max-width: 100%;">
 </img>
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="rails" width="40" height="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="rails" width="40" height="40" style="max-width: 100%;">
 </img>
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="rails" width="40" height="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="rails" width="40" height="40" style="max-width: 100%;">
 </img>
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png" alt="rails" width="40" height="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="rails" width="40" height="40" style="max-width: 100%;">
 </img>
 <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="rails" width="40" height="40" style="max-width: 100%;">
 </img>
