@@ -6,7 +6,7 @@ Meu nome é Hélder Siqueira e atualmente sou estudante da área de desenvolvime
 
 [![Gmail Badge](https://img.shields.io/badge/-helder.erik.he@gmail.com-2a183d?style=flat-square&logo=Gmail&logoColor=white&link=mailto:helder.erik.he@gmail.com)](mailto:helder.erik.he@gmail.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/-HélderSiqueira-2a183d?style=flat-square&logo=Linkedin&logoColor=e94fcc&link=https://www.linkedin.com/in/helderSiqueira/)](https://www.linkedin.com/in/helderSiqueira/) 
+[![Linkedin Badge](https://img.shields.io/badge/-HélderSiqueira-2a183d?style=flat-square&logo=Linkedin&logoColor=2a183d&link=https://www.linkedin.com/in/helderSiqueira/)](https://www.linkedin.com/in/helderSiqueira/) 
 
 ## Aprendendo:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html" width="35" heigth="35" style="max-width:100%;" title="Html"></img>
