@@ -6,6 +6,7 @@ Meu nome é Hélder Siqueira e atualmente sou estudante da área de desenvolvime
 [![Gmail Badge](https://img.shields.io/badge/-helder.erik.he@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:helder.erik.he@gmail.com)](mailto:helder.erik.he@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-HélderSiqueira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helderSiqueira/)](https://www.linkedin.com/in/helderSiqueira/) 
 
+##
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/19_Android_logo_logos-256.png" alt="rails" width="30" height="30" style="max-width: 100%;"/>
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="rails" width="10" height="10" style="max-width: 100%;"/>
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="rails" width="10" height="10" style="max-width: 100%;"/>
