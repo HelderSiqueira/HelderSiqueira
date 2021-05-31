@@ -4,7 +4,7 @@ Meu nome é Hélder Siqueira e atualmente sou estudante da área de desenvolvime
 
 [![Github Badge](https://img.shields.io/badge/-HelderSiqueira-e94fcc?style=flat-square&labelColor=e94fcc&logo=Github&logoColor=white&link=https://github.com/HelderSiqueira/)](https://github.com/HelderSiqueira/) 
 
-[![Gmail Badge](https://img.shields.io/badge/-helder.erik.he@gmail.com-#2a183d?style=flat-square&logo=Gmail&logoColor=white&link=mailto:helder.erik.he@gmail.com)](mailto:helder.erik.he@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-helder.erik.he@gmail.com-2a183d?style=flat-square&logo=Gmail&logoColor=white&link=mailto:helder.erik.he@gmail.com)](mailto:helder.erik.he@gmail.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-HélderSiqueira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helderSiqueira/)](https://www.linkedin.com/in/helderSiqueira/) 
 
