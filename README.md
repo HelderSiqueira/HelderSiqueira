@@ -19,7 +19,7 @@ Meu nome é Hélder Siqueira e atualmente sou estudante da área de desenvolvime
 
 ## GitHub Status:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Hélder Siqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=HelderSiqueira&show_icons=true&theme=radical)
 
 
 
