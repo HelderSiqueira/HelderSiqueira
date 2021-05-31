@@ -8,7 +8,7 @@ Meu nome é Hélder Siqueira e atualmente sou estudante da área de desenvolvime
 
 [![Linkedin Badge](https://img.shields.io/badge/-HélderSiqueira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helderSiqueira/)](https://www.linkedin.com/in/helderSiqueira/) 
 
-## Aprendendo
+## Aprendendo 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html" width="40" heigth="40" style="max-width:100%;" title="Html"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css" width="40" heigth="40" style="max-width:100%;" title="Css"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" width="40" heigth="40" style="max-width:100%;" title="JavaScript"></img>
