@@ -9,9 +9,9 @@ Meu nome é Hélder Siqueira e atualmente sou estudante da área de desenvolvime
 [![Linkedin Badge](https://img.shields.io/badge/-HélderSiqueira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helderSiqueira/)](https://www.linkedin.com/in/helderSiqueira/) 
 
 <img src="https://cdn0.iconfinder.com/data/icons/most-usable-logos/120/Android-512.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://www.iconfinder.com/icons/4961937/css_logo_social_media_icon" alt="rails" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://www.iconfinder.com/icons/4961965/coding_html_program_programming_icon" alt="rails" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://www.iconfinder.com/icons/652579/code_command_develop_java_language_programming_software_icon" alt="rails" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://www.iconfinder.com/icons/652581/code_command_develop_javascript_language_programming_software_icon" alt="rails" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://br.freepik.com/icones-gratis/mysql_14472753.htm#page=1&query=mysql&position=9" alt="rails" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://www.iconfinder.com/icons/3069654/circle_php_programming_programming_language_round_icon_icon" alt="rails" width="40" height="40" style="max-width: 100%;"/>
+<img src="https://https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
+<img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/html-5-512.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
+<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-512.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
+<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
+<img src="https://image.flaticon.com/icons/png/512/474/474933.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
+<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
