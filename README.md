@@ -15,7 +15,7 @@ Meu nome é Hélder Siqueira e atualmente sou estudante da área de desenvolvime
 </img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="rails" width="40" height="40" style="max-width: 100%;">
 </img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="rails" width="40" height="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="rails" width="45" height="45" style="max-width: 100%;">
 </img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="rails" width="45" height="45" style="max-width: 100%;">
 </img>
