@@ -21,5 +21,5 @@ Meu nome é Hélder Siqueira e atualmente sou estudante da área de desenvolvime
 </img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="rails" width="40" height="40" style="max-width: 100%;">
 </img>
-<img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png" alt="rails" width="40" height="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="rails" width="40" height="40" style="max-width: 100%;">
 </img>
