@@ -8,7 +8,7 @@ Meu nome é Hélder Siqueira e atualmente sou estudante da área de desenvolvime
 
 [![Linkedin Badge](https://img.shields.io/badge/-HélderSiqueira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helderSiqueira/)](https://www.linkedin.com/in/helderSiqueira/) 
 
-<img src="https://www.iconfinder.com/icons/2062063/android_logo_software_technology_icon" alt="rails" width="40" height="40" style="max-width: 100%;"/>
+<img src="https://cdn0.iconfinder.com/data/icons/most-usable-logos/120/Android-512.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
 <img src="https://www.iconfinder.com/icons/4961937/css_logo_social_media_icon" alt="rails" width="40" height="40" style="max-width: 100%;"/>
 <img src="https://www.iconfinder.com/icons/4961965/coding_html_program_programming_icon" alt="rails" width="40" height="40" style="max-width: 100%;"/>
 <img src="https://www.iconfinder.com/icons/652579/code_command_develop_java_language_programming_software_icon" alt="rails" width="40" height="40" style="max-width: 100%;"/>
