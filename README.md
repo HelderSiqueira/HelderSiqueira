@@ -9,9 +9,9 @@ Meu nome é Hélder Siqueira e atualmente sou estudante da área de desenvolvime
 [![Linkedin Badge](https://img.shields.io/badge/-HélderSiqueira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helderSiqueira/)](https://www.linkedin.com/in/helderSiqueira/) 
 
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/19_Android_logo_logos-256.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/html-5-512.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-512.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://image.flaticon.com/icons/png/512/474/474933.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-256.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
