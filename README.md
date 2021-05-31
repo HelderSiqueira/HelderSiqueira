@@ -14,7 +14,7 @@ Meu nome é Hélder Siqueira e atualmente sou estudante da área de desenvolvime
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" width="40" heigth="40" style="max-width:100%;" title="JavaScript"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" heigth="50" style="max-width:100%;" title="Java"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="55" heigth="55" style="max-width:100%;" title="Php"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" heigth="50" style="max-width:100%;" title="MySql"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" heigth="55" style="max-width:100%;" title="MySql"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="android" width="40" heigth="40" style="max-width:100%;" title="Android"></img>
 
 
