@@ -14,4 +14,4 @@ Meu nome é Hélder Siqueira e atualmente sou estudante da área de desenvolvime
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-256.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png" alt="rails" width="40" height="40" style="max-width: 100%;"/>
