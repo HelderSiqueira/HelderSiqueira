@@ -19,8 +19,9 @@ Meu nome é Hélder Siqueira e atualmente sou estudante da área de desenvolvime
 
 ## GitHub Status:
 
-![Hélder Siqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=HelderSiqueira&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelderSiqueira&layout=compact)](https://github.com/HelderSiqueira/github-readme-stats)
+![Hélder Siqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=HelderSiqueira&show_icons=true&theme=jolly)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelderSiqueira&layout=compact&&repo=github-readme-stats&cache_seconds=86400&theme=jolly)](https://github.com/HelderSiqueira/github-readme-stats)
+
 
 
 
