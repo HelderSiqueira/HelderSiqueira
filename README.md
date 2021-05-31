@@ -10,8 +10,8 @@ Meu nome é Hélder Siqueira e atualmente sou estudante da área de desenvolvime
 
 ## Aprendendo 👾
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html" width="35" heigth="35" style="max-width:100%;" title="Html"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css" width="40" heigth="40" style="max-width:100%;" title="Css"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" width="40" heigth="40" style="max-width:100%;" title="JavaScript"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css" width="35" heigth="35" style="max-width:100%;" title="Css"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" width="35" heigth="35" style="max-width:100%;" title="JavaScript"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" heigth="50" style="max-width:100%;" title="Java"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="android" width="40" heigth="40" style="max-width:100%;" title="Android"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="45" heigth="45" style="max-width:100%;" title="Php"></img>
