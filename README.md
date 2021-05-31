@@ -8,7 +8,7 @@ Meu nome é Hélder Siqueira e atualmente sou estudante da área de desenvolvime
 
 [![Linkedin Badge](https://img.shields.io/badge/-HélderSiqueira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helderSiqueira/)](https://www.linkedin.com/in/helderSiqueira/) 
 
-## Aprendendo 👾
+## Aprendendo:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html" width="35" heigth="35" style="max-width:100%;" title="Html"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css" width="35" heigth="35" style="max-width:100%;" title="Css"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" width="35" heigth="35" style="max-width:100%;" title="JavaScript"></img>
@@ -17,6 +17,9 @@ Meu nome é Hélder Siqueira e atualmente sou estudante da área de desenvolvime
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="45" heigth="45" style="max-width:100%;" title="Php"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" heigth="60" style="max-width:100%;" title="MySql"></img>
 
+## GitHub Status:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
