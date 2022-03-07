@@ -1,6 +1,6 @@
 # Olá 👋🏾
 
-Meu nome é Hélder Siqueira e atualmente sou estudante da área de desenvolvimento de sistemas =)
+Meu nome é Hélder Siqueira e atualmente sou estudante da área de Análise e desenvolvimento de sistemas =)
 
 [![Github Badge](https://img.shields.io/badge/-HelderSiqueira-873282?style=flat-square&labelColor=873282&logo=Github&logoColor=white&link=https://github.com/HelderSiqueira/)](https://github.com/HelderSiqueira/) 
 
